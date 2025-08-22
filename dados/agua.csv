@@ -1,0 +1,101 @@
+estado,ano,pH,oxigenio,poluente,nivel_poluicao
+Minas Gerais,2011,6.24,10.44,Orgânicos,Alto
+Bahia,2010,7.11,11.3,Nutrientes,Médio
+Rio de Janeiro,2016,6.73,2.7,Orgânicos,Baixo
+Mato Grosso,2016,8.41,4.09,Metais,Alto
+Minas Gerais,2017,7.41,8.71,Metais,Alto
+Rio Grande do Sul,2014,8.95,5.59,Metais,Baixo
+Pernambuco,2012,7.2,4.54,Orgânicos,Alto
+Minas Gerais,2017,8.45,4.95,Orgânicos,Alto
+Rio de Janeiro,2015,8.4,5.23,Metais,Médio
+Mato Grosso,2020,6.45,10.49,Orgânicos,Alto
+Bahia,2012,7.52,3.37,Metais,Baixo
+Rio de Janeiro,2010,8.09,9.09,Metais,Médio
+Rio de Janeiro,2012,8.58,7.53,Nutrientes,Médio
+Pernambuco,2014,6.98,4.97,Orgânicos,Baixo
+Mato Grosso do Sul,2012,6.66,6.2,Metais,Baixo
+Mato Grosso,2010,8.13,4.56,Metais,Médio
+Acre,2014,8.43,8.12,Orgânicos,Alto
+Rio de Janeiro,2019,7.05,2.82,Nutrientes,Médio
+Mato Grosso do Sul,2016,6.29,2.05,Nutrientes,Baixo
+Acre,2016,8.82,8.28,Metais,Médio
+Mato Grosso,2020,7.19,3.94,Orgânicos,Baixo
+Amazonas,2018,7.55,2.71,Nutrientes,Médio
+Rio Grande do Sul,2019,8.51,5.97,Orgânicos,Alto
+Mato Grosso do Sul,2019,8.03,2.51,Orgânicos,Médio
+Santa Catarina,2012,8.21,10.87,Metais,Médio
+Amazonas,2016,6.63,2.28,Nutrientes,Baixo
+Rio Grande do Sul,2010,7.62,7.79,Metais,Baixo
+Pernambuco,2013,8.09,6.38,Nutrientes,Baixo
+Minas Gerais,2013,6.69,8.72,Nutrientes,Médio
+Bahia,2014,6.52,5.28,Nutrientes,Alto
+Santa Catarina,2016,8.95,3.55,Nutrientes,Baixo
+Pernambuco,2016,7.55,11.82,Nutrientes,Baixo
+Mato Grosso,2020,6.78,10.39,Orgânicos,Médio
+Pernambuco,2013,8.99,10.6,Metais,Baixo
+Minas Gerais,2016,8.9,4.5,Orgânicos,Alto
+Mato Grosso,2020,7.67,2.39,Nutrientes,Alto
+Santa Catarina,2012,8.65,5.03,Metais,Baixo
+Minas Gerais,2015,6.57,7.37,Nutrientes,Baixo
+Acre,2011,6.84,5.27,Metais,Médio
+Bahia,2019,8.1,10.28,Orgânicos,Alto
+Santa Catarina,2018,8.54,4.72,Metais,Alto
+Acre,2014,8.57,11.65,Metais,Baixo
+Rio Grande do Sul,2015,7.21,6.57,Metais,Médio
+Santa Catarina,2013,8.66,10.42,Metais,Alto
+Rio Grande do Sul,2020,,,Metais,Alto
+Mato Grosso,2019,,,Nutrientes,Médio
+Acre,2016,8.36,9.0,Metais,Médio
+Bahia,2018,8.01,3.38,Metais,Alto
+Minas Gerais,2016,7.74,3.33,Orgânicos,Alto
+Rio de Janeiro,2010,7.12,11.7,Metais,Médio
+Pernambuco,2010,8.82,9.15,Orgânicos,Alto
+Amazonas,2018,8.92,2.41,Nutrientes,Baixo
+Bahia,2020,6.85,5.99,Metais,Baixo
+Acre,2018,,,Orgânicos,Médio
+Rio de Janeiro,2013,7.46,9.44,Orgânicos,Médio
+Bahia,2018,7.35,4.51,Nutrientes,Médio
+Acre,2012,8.98,3.84,Metais,Baixo
+Mato Grosso do Sul,2016,6.53,2.81,Metais,Alto
+Mato Grosso do Sul,2015,6.05,6.28,Orgânicos,Baixo
+Rio Grande do Sul,2017,7.48,8.88,Metais,Alto
+Bahia,2020,6.54,2.58,Orgânicos,Baixo
+Mato Grosso do Sul,2018,7.1,11.15,Metais,Alto
+Acre,2014,8.23,6.42,Orgânicos,Baixo
+Rio Grande do Sul,2010,8.16,4.4,Metais,Médio
+Acre,2012,6.92,2.94,Nutrientes,Baixo
+Rio Grande do Sul,2019,7.63,3.83,Metais,Alto
+Bahia,2017,7.53,11.35,Metais,Baixo
+Rio de Janeiro,2020,7.91,8.38,Nutrientes,Baixo
+Minas Gerais,2015,6.75,7.17,Metais,Baixo
+Santa Catarina,2017,7.77,8.57,Nutrientes,Médio
+Rio de Janeiro,2018,,,Metais,Baixo
+Mato Grosso,2013,7.46,9.3,Orgânicos,Médio
+Acre,2010,8.72,2.48,Orgânicos,Médio
+Mato Grosso,2010,7.3,7.66,Metais,Baixo
+Rio de Janeiro,2019,7.05,3.59,Metais,Baixo
+Rio Grande do Sul,2013,7.94,3.2,Metais,Baixo
+Santa Catarina,2016,8.01,5.42,Orgânicos,Alto
+Santa Catarina,2011,8.59,2.92,Metais,Baixo
+Amazonas,2012,6.69,2.94,Orgânicos,Médio
+Santa Catarina,2010,7.5,5.11,Nutrientes,Baixo
+Minas Gerais,2014,7.72,11.8,Orgânicos,Alto
+Santa Catarina,2010,8.31,3.75,Orgânicos,Baixo
+Rio de Janeiro,2017,6.13,2.17,Nutrientes,Alto
+Amazonas,2010,,,Orgânicos,Alto
+Rio de Janeiro,2020,7.41,10.07,Metais,Baixo
+Rio de Janeiro,2010,6.84,5.46,Metais,Médio
+Pernambuco,2011,8.65,6.65,Orgânicos,Alto
+Amazonas,2011,8.24,8.5,Metais,Baixo
+Rio de Janeiro,2015,8.86,2.48,Orgânicos,Baixo
+Pernambuco,2016,6.99,11.49,Metais,Médio
+Pernambuco,2014,7.66,10.87,Metais,Alto
+Amazonas,2010,7.72,4.61,Orgânicos,Alto
+Mato Grosso,2010,8.94,2.15,Metais,Baixo
+Rio Grande do Sul,2012,6.23,11.33,Orgânicos,Baixo
+Minas Gerais,2011,6.92,7.01,Metais,Médio
+Rio Grande do Sul,2014,6.57,7.39,Metais,Médio
+Santa Catarina,2019,6.81,8.84,Nutrientes,Alto
+Minas Gerais,2015,7.46,8.16,Nutrientes,Alto
+Santa Catarina,2016,7.12,11.44,Orgânicos,Baixo
+Rio de Janeiro,2013,7.18,11.44,Nutrientes,Alto
